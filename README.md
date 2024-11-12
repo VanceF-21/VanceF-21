@@ -1,7 +1,10 @@
 <h1>👋 Hi, I’m @Austin-Frankie</h1>
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Cute Dog GIF" width="300">
-
+<p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+</p>
 <p>👀 I’m interested in AI / LLM safety</p>
 <p>🌱 I’m currently learning LLM safety</p>
 <p>💞️ I’m looking to collaborate on projects that make AI smarter—and safer—without causing the robot uprising!</p>
