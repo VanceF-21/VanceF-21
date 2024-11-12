@@ -1,3 +1,6 @@
+<a href="https://longtao.fun">
+  <img src="cat.webp" width="50"/>
+</a>
 - 👋 Hi, I’m @Austin-Frankie
 - 👀 I’m interested in AI / LLM safety
 - 🌱 I’m currently learning LLM safety
