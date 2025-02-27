@@ -4,7 +4,7 @@
     <p>👀 I’m interested in AI / LLM safety</p>
     <p>🌱 I’m currently learning LLM safety</p>
     <p>💞️ I’m looking to collaborate on projects that make AI smarter—and safer—without causing the robot uprising!</p>
-    <p>📫 How to reach me: ![Email Badge](vancefeng_21@163.com) ![RedNote Badge](https://www.xiaohongshu.com/user/profile/621896a10000000010009f8f)</p>
+    <p>📫 How to reach me: vancefeng_21@163.com
 </div>
 <!---
 Austin-Frankie/Austin-Frankie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
