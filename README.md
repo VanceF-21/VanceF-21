@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <h1>👋 Hi, I’m @Austin-Frankie</h1>
-    <img src="https://c-ssl.duitang.com/uploads/blog/202202/05/20220205073410_2e4cd.gif" alt="Cute Dog GIF" width="100">
+    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
     <p>👀 I’m interested in AI / LLM safety</p>
     <p>🌱 I’m currently learning LLM safety</p>
     <p>💞️ I’m looking to collaborate on projects that make AI smarter—and safer—without causing the robot uprising!</p>
