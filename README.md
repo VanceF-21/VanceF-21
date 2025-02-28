@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <h1>👋 Hi, I’m @Austin-Frankie</h1>
+    <h1>👋 Hi, I’m @VanceF</h1>
     <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
     <p>👀 I’m interested in AI / LLM safety</p>
     <p>🌱 I’m currently learning LLM safety</p>
