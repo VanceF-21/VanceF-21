@@ -21,11 +21,6 @@
 
   <!-- GitHub 活跃度 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanceF&theme=radical" alt="GitHub Streak">
-  
-  <!-- 访客计数 -->
-  <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=VanceF" alt="visitors">  
-  </p>
 
   <!-- 个性化签名 -->
   <p>✨ “Building a safer AI world, one model at a time.” ✨</p>
