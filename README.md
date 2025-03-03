@@ -2,7 +2,7 @@
     <h1>👋 Hi, I’m @VanceF</h1>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding GIF">
 
-  <p>👀 Passionate about AI / LLM / LLM-based Agent Safety</p>
+  <p>👀 Passionate about AI / LLM Safety</p>
   <p>🌱 Currently learning and exploring more in LLM safety</p>
   <p>💞️ Open to collaborations that make AI smarter—and safer—without causing a robot uprising! 🤖</p>
   <p>🆕 Still a newbie, learning step by step—any guidance is always appreciated! 🚀</p>
