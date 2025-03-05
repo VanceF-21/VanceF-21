@@ -20,7 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanceF-21&layout=compact&theme=radical" alt="Top Langs">
 
   <!-- GitHub 活跃度 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanceF-21&theme=radical" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=VanceF-21&theme=radical" alt="GitHub Streak">
+
 
   <!-- 个性化签名 -->
   <p>✨ “Building a safer AI world, one model at a time.” ✨</p>
