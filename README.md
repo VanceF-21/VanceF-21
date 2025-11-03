@@ -13,18 +13,6 @@
     <a href="mailto:vancefeng2121@gmail.com">✉️ Gmail</a>
   </p>
 
-  <!-- GitHub 统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VanceF-21&show_icons=true&theme=radical" alt="GitHub Stats">
-  
-  <!-- 常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanceF-21&layout=compact&theme=radical" alt="Top Langs">
-
   <!-- 个性化签名 -->
   <p>✨ “Building a safer AI world, one model at a time.” ✨</p>
 </div>
-
-
-<!---
-Austin-Frankie/Austin-Frankie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
